@@ -1,6 +1,7 @@
 body{
 
-background-image: radial-gradient(#525e91 ,#6773aa);
+    background-color:#525e91;
+
 padding-left:15% ;
 padding-right:15%;
 padding-top:30px;
@@ -18,7 +19,7 @@ padding-top:30px;
     background: inherit;
     overflow: hidden;
     text-align: center;
-    background-image: radial-gradient (#b2b8d3 ,#525e91);
+    background-image: radial-gradient(whitesmoke ,#525e91);
     margin-top:60px;
     border:2px solid #00000065;
     }
@@ -30,7 +31,7 @@ header{
 }
 section{
     position:relative;
-    border:2px solid black;
+    border:2px solid  rgba(0, 0, 0, 0.384);
     height:800px;
     width:70em;
     margin-top:50px;

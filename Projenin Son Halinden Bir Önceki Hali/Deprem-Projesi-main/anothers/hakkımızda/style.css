@@ -115,7 +115,7 @@ top:0px;
 position:relative;
 top:50px;
 width:700px;    
-height:130px;
+height:180px;
 background-color:#95e8d7; ;
 padding:10px;
 border-radius:10px;
@@ -173,7 +173,7 @@ position:relative;
 float:right;
 top:150px;
 width:700px;    
-height:130px;
+height: 140px;
 background-color:#95e8d7; ;
 padding:10px;
 border-radius:10px;
@@ -221,6 +221,7 @@ background-color:#8971d0;
 margin-right:10px;
 border:#8971d0;
 padding:10px;}
+
 
 .p {
     font-family: monospace;
