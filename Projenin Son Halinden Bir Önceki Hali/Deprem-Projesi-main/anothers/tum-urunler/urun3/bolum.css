@@ -1,0 +1,128 @@
+body{
+
+background-image: radial-gradient(#525e91 ,#6773aa);
+padding-left:15% ;
+padding-right:15%;
+padding-top:30px;
+}
+.bob {
+    margin-right: auto;
+    margin-left: auto;
+   
+    width: 55rem;
+    height: 6rem;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+    border-radius: 5px;
+    position: relative;
+    z-index: 1;
+    background: inherit;
+    overflow: hidden;
+    text-align: center;
+    background-image: radial-gradient (#b2b8d3 ,#525e91);
+    margin-top:60px;
+    border:2px solid #00000065;
+    }
+header{
+    border:2px solid black;
+    height:150px;;
+    width:100%;
+
+}
+section{
+    position:relative;
+    border:2px solid black;
+    height:800px;
+    width:70em;
+    margin-top:50px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    background-color:#D8B6A4;
+  
+}
+.kas {
+    margin-right: 100px;
+    margin-top:30px;
+ 
+}
+.sak {
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-left: 107px;
+}
+img{
+margin-top:90px;
+width:50%;
+height:75%;
+
+}
+.görsel{
+    
+position:relative;
+border:2px solid #00000065;
+height:650px;
+background: inherit;
+width:30em;
+float:left;
+box-sizing: border-box;
+margin-top:20px;
+margin-left:50px;
+
+background-color:#EEEBDD;
+}
+.metin{
+ 
+    position:relative;
+    border:2px solid #00000065;
+    height:650px;
+    background: inherit;
+    width:30em;
+    float:left;
+    box-sizing: border-box;
+    margin-top:20px;
+    margin-left:50px;
+    background-color:#EEEBDD;
+
+
+
+    }
+
+footer{
+    border:2px solid #00000065;
+    background-color:black;
+    height:200px;
+    width:70em;
+    margin-left:auto;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top:10px;
+
+
+}
+
+
+ul{
+    background:inherit;
+    margin-top:40px;
+    color:rgba(255, 255, 255, 0.514);
+    list-style-position: inside;
+    text-align:center;
+    padding-left:20%;
+    padding-right:20%;
+    
+    
+   
+}
+
+a{
+
+text-decoration: none;
+color:inherit;
+}
+p{
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-top:250px;
+}
